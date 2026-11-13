@@ -7,6 +7,7 @@ Modelo
 Con $x_1=q$ y $x_2=\dot q$:
 
 $$\dot x_1 = x_2,\qquad \dot x_2 = \frac{1}{I_r}\left[\tau - m g l_c\sin x_1 - b x_2 - f_c\,\mathrm{sgn}(x_2)\right]$$
+
 Parámetro	Valor
 $I_r$	0.16 kg·m²
 $m$	5 kg
